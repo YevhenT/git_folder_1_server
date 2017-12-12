@@ -1,0 +1,1 @@
+char* load_fun(char*);
